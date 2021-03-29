@@ -1,0 +1,13 @@
+/* 
+  LanguageFile.strings
+  WSExpense
+
+  Created by 王伟 on 2021/3/15.
+  
+*/
+
+"BTNTITLE" = "切换";
+
+"TITLE" = "你好 世界";
+
+"COUNTRY" = "中国: %@";
